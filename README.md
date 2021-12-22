@@ -63,6 +63,14 @@ sudo chmod +x /bin/hadolint
 
 ---
 
+## Makefile
+
+A provided Makefile provides a template for installing dependencies, setup and linting.
+```bash
+cat Makefile
+```
+---
+
 ## Supplemental material
 * When deploying on Cloud9, a supplemental file is provided to increase memory limits
 ```bash
