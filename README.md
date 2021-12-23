@@ -44,7 +44,7 @@ sudo chmod +x /bin/hadolint
 * Install [Minikube](https://minikube.sigs.k8s.io/docs/start/). Minikube is local Kubernetes, focusing on making it easy to develop for Kubernetes.
 
 ### Kubectl
-* Install [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/). The kubectl command line tool lets you control Kubernetes clusters. For more information of Kuberneter, see this [link](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
+* Install [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/). The kubectl command line tool lets you control Kubernetes clusters. For more information of Kubernetes, see this [link](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/).
 
 ---
 
